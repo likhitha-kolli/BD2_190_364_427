@@ -5,8 +5,6 @@ Enron Email Spam Detection
     - Each email is one of 2 classes, spam or ham
     - 30k examples in train and 3k in test
 
-Cleaned up dataset:   
-https://drive.google.com/drive/folders/1mMPa21_FInHVNOaG5irmve42Su6dI77K
+Cleaned up dataset: https://drive.google.com/drive/folders/1mMPa21_FInHVNOaG5irmve42Su6dI77K
 
-Original dataset:
-https://www.kaggle.com/wanderfj/enron-spam
+Original dataset: https://www.kaggle.com/wanderfj/enron-spam
