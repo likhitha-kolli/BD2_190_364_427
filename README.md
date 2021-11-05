@@ -1,4 +1,4 @@
-# BD_190_364_427_SpamDetection
+# BD2_190_364_427_SpamDetection
 Enron Email Spam Detection    
 
 - https://www.kaggle.com/wanderfj/enron-spam    
