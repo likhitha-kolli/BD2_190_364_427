@@ -1,4 +1,4 @@
-# BD2_190_364_427 SPAM DETECTION
+# BD2_190_364_427-SPAM DETECTION
 
 Enron Email Spam Detection
 - Each record consists of 3 features : the subject, the email content and the label
